@@ -1,5 +1,3 @@
-# xstefanr0.github.io
-
 # Privacy Policy 
 ## Last updated: 25 february 2023  
 ## This privacy policy allows access to games published by xStefanR0.
