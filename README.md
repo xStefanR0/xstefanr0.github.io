@@ -1,5 +1,5 @@
 # Privacy Policy 
-## Last updated: 25 february 2023  
+## Last updated: 03 March 2023  
 ## This privacy policy allows access to games published by xStefanR0.
 
 ### Personal data: 
