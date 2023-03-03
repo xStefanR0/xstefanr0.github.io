@@ -11,6 +11,9 @@ There are no ads in the game, therefore there is no possibility that your data w
 ### Children: 
 The game is made especially for children and does not contain elements that can affect children emotionally or in any other negative way. 
 
+### COPPA
+We comply with the Children’s Online Privacy Protection Act. We do not collect personal information about children under the age of 13. When a user identifies themselves as a child under 13 through contact or any feedback, no personal information of a user will be collected.
+
 ### Security: 
 Since we do not collect personal data, any personal information is safe. We do not directly receive any information when you use the application. The only information we receive is information about the country, the Android version and the phone brand used, which are made available to us by Google Play and which are also anonymous. Other information received can be your reviews, which are always public. The application information is collected in a file in xStefanR0.SunsetFarm that can only exist on your device and has no connection with any storage on the Internet.
 
