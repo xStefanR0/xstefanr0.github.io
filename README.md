@@ -1,15 +1,12 @@
 # Privacy Policy 
-## Last updated: 06 September 2023  
+## Last updated: 11 May 2024  
 ## This privacy policy allows access to games published by xStefanR0.
 
 ### Personal data: 
-The game does not collect your personal information, such as first name and last name, addresses, email addresses, agenda, or other private and personal things. We collects information about the device such as its model, android version, country name, etc.. The game has access to your storage to be able to save and return to the same place without losing anything. He does not have access to photos or other personal elements, but only to his save location (xStefanR0.SunetFarm).
+The game does not collect your personal information, such as first name and last name, addresses, email addresses, agenda, or other private and personal things. We collects information about the device such as its model, android version, country name, etc.. The game has access to your storage to be able to save and return to the same place without losing anything. He does not have access to photos or other personal elements, but only to his save location (xStefanR0.SunetFarm, xStefanR0.LadyHouse, xStefanR0.ObservationHuntedHouse).
 
 ### ADS: 
-There are reward ads in the game. They are managed by AdMob.
-
-### Children: 
-The game is made especially for children and does not contain elements that can affect children emotionally or in any other negative way. 
+There are no reward ads in the game.
 
 ### Security: 
 Since we do not collect personal data, any personal information is safe. We do not directly receive any information when you use the application. The only information we receive is information about the country, the Android version and the phone brand used, which are made available to us by Google Play and which are also anonymous. Other information received can be your reviews, which are always public. The application information is collected in a file in xStefanR0.SunsetFarm that can only exist on your device and has no connection with any storage on the Internet.
